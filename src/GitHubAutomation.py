@@ -3,8 +3,8 @@ import random
 import base64
 
 # Replace 'YOUR_GITHUB_TOKEN' with your actual GitHub token
-GITHUB_TOKEN = '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'
-GITHUB_USERNAME = 'NorthernL1ghts'
+GITHUB_TOKEN = 'GITHUB_TOKEN'
+GITHUB_USERNAME = 'GITHUB_USERNAME'
 
 adjectives = ["Brave", "Bright", "Clever", "Dynamic", "Elegant", "Fierce", "Gentle", "Innovative",
               "Majestic", "Noble", "Optimistic", "Radiant", "Sophisticated", "Vigorous"]
