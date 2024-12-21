@@ -45,8 +45,8 @@ The **GitHub Repository Automation Script** streamlines the process of creating 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/github-repo-automation.git
-   cd github-repo-automation
+   git clone https://github.com/NorthernL1ghts/Github-Repo-Automation.git
+   cd Github-Repo-Automation-master
    ```
 
 2. Install the required dependencies:
