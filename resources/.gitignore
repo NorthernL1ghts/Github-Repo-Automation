@@ -23,8 +23,6 @@ venv/
 *.class
 
 # Visual Studio Code
-.vscode/
-.vscode/*
 .history
 *.code-workspace
 *.log
@@ -32,3 +30,5 @@ venv/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+.git/
